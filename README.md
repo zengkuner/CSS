@@ -1,7 +1,7 @@
 ## CSS
 > Practice css
 ### [定义css](./css_how/README.md)
-exammple: [css_how.html](./css_how/css_how.html)
+example: [css_how.html](./css_how/css_how.html)
 
 ### [css颜色](./css_color/README.md)
 example: [css_color.html](./css_color/css_color.html)
