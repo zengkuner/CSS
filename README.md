@@ -45,4 +45,7 @@ example: [display.html](./display/display.html)
 ### [文档流](./document_flow/README.md)
 example: [document_flow.html](./document_flow/document_flow.html)
 
+### [浮动](./float/README.md)
+example: [float.html](./float/float.html)
+
 
