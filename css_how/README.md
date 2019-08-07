@@ -5,7 +5,7 @@
 ```
 href指定css文件路径。
 >注意：具体数值与单位之间不能有空格。错误示例：margin-left：20 px；正确示例：margin-top：20px；
-2. 定义内部样式直接写在&lt;style&gt;&lt;style/&gt;内。
+2. 定义内部样式直接写在&lt;style&gt;&lt;/style&gt;内。
 3. 行内样式。例如：
 ```css
 <div style="background-color: red;height: 10px;"></div>
