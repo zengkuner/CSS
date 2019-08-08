@@ -36,4 +36,13 @@ background-position: 100px 0px;
 - scroll  默认值，背景图片随着窗口滚动。
 - fixed  背景图片会固定在某一位置，不随页面滚动。
 >当背景图片的background-attachment设置为fixed时，背景图片的定位永远相对于浏览器窗口。不随窗口滚动的图片一般设置给body，而不设置给其他元素。
+#### 背景样式简写属性
+background：通过该属性可以同时设置所有背景相关的样式。
+
+```css
+background: #bfa url(img/3.png) center center no-repeat fixed;
+```
+- 通过该属性可以同时设置所有背景相关的样式。
+- 没用顺序的要求，谁在前谁在后都行。
+- 也没有数量的要求，不写的样式就使用默认值。
 
