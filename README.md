@@ -48,4 +48,10 @@ example: [document_flow.html](./document_flow/document_flow.html)
 ### [浮动](./float/README.md)
 example: [float.html](./float/float.html)
 
+### [导航条练习](./nav_list/README.md)
+example: [nav_list.html](./nav_list/nav_list.html)
+
+### [高度塌陷问题](./high_collapse/README.md)
+example: [high_collapse.html](./high_collapse/high_collapse.html)
+
 
