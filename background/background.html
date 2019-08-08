@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<style>
+    body{
+        background-image: url(image/2.jpg);
+        background-repeat: no-repeat;
+    }
+    .box1{
+        width: 500px;
+        height: 500px;
+        margin: 0 auto;
+        /*设置背景样式*/
+        background-color: #bbffaa;
+        /*使用background-image来设置背景图片
+         *如果背景图片大于元素，默认会显示图片的左上角
+         */
+        background-image: url(image/1.jpg);
+    }
+    .box2{
+        width: 1000px;
+        height: 1000px;
+        margin: 0 auto;
+        background-color: red;
+        background-image: url(image/2.jpg);
+    }
+</style>
+<body>
+    <div class="box1"></div>  
+    <div class="box2"></div> 
+</body>
+</html>
