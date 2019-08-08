@@ -57,3 +57,6 @@ example: [high_collapse.html](./high_collapse/high_collapse.html)
 ### [定位](./position/README.md)
 example: [position.html](./position/position.html)
 
+### [背景](./background/README.md)
+example: [background.html](./background/background.html)
+
